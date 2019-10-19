@@ -1,0 +1,6 @@
+# CONTENTS OF THIS REPO :
+* N-Queens problem _(using backtracking)_
+* Hamilton-path _(from undirected graph)_
+* **D**isjoint **S**et **U**nion _(add edges if cycle isn't formed)_
+* **G**reatest **C**ommon **D**ivisor
+* Mergesort _(Time:O(n&times;log<sub>2</sub>(n)), auxillary space:O(n))_
